@@ -2,7 +2,7 @@ Step1:Download or clone the project.
 Step2:Open eclipse or STS IDE
 Step3:Add Project to IDE
 Step4:On the project right click -> got to maven -> give maven update
-Step5:Go to project-> Right click Run As Java Application
+Step5:Go to project->Serch SampleApplication.java file in "com.sample.demo" package and Right click on the file Run As Java Application
 Step6:Use postman
 Step7:Add url in post man. Select GET http request
 	
